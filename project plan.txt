@@ -1,0 +1,2 @@
+learn how to extract features from a model
+Important !!! Report in lieu of scribing activity, check instructions pdf for details
